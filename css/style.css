@@ -1,0 +1,176 @@
+/*common start*/
+body{
+	font-family: 'PT Sans', sans-serif;
+	font-size: 16px;
+	font-weight: 400;
+	color:#313841;
+}
+/*common end*/
+/*header start*/
+header{
+	padding: 20px 0;
+	background-color:#fcdb00 ;
+}
+.c_nav{}
+.logo{}
+.menu ul li a{
+	font-size:22px;
+	font-weight: 700;
+	color: #010101 !important;
+	padding:0 50px !important;
+}
+.menu ul li:last-child a{
+	padding-right: 0px !important;
+}
+.menu ul li a:hover{
+	color:white !important ;
+}
+
+/*header end*/
+
+/*slider start*/
+.slider{
+	background-color:#fcdb00;
+	padding-bottom: 100px;
+}
+
+.c_ind {
+    bottom: -80px;
+}
+
+.c_ind [data-bs-target] {
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    background-color: white;
+}
+
+.s_text{
+	margin-top: 50px;
+}
+.s_text h1{
+
+	font-size: 32px;
+	font-weight: 700;
+	color: #010101;
+}
+.s_text h2{
+	margin: 20px 0;
+	font-size: 20px;
+	font-weight:400;
+	color: #313841;
+}
+.s_text p{
+	margin-bottom: 35px;
+	color: #555555;
+}
+.s_icon{}
+.s_icon ul li{
+	margin-right: 30px !important;
+}
+.s_icon ul li i{
+	font-size: 42px;
+	color: #010101;
+	transition: 0.3s;
+
+}
+.s_icon ul li i:hover{
+	transform: scale(0.8);
+	color: white;
+}
+.s_img{}
+.s_img img{}
+
+/*slider end*/
+/*feature start*/
+
+.feature{
+	padding-top: 100px;
+	padding-bottom: 120px;
+}
+.f_title{}
+.f_h1{
+	margin-bottom: 15px;
+	font-size: 32px;
+	font-weight: 700;
+	color: #101010;
+}
+.f_p{
+	font-size: 20px;
+	line-height: 28px;
+
+}
+
+.f_content{
+	margin-top: 70px;
+	
+}
+.f_icon{
+	margin-top: -6px;
+	font-size: 40px;
+	float: left;
+}
+.f_text{
+	padding-left: 70px;
+    width: 89%;
+}
+.f_text h1{
+	font-size: 24px;
+    font-weight: 400;
+    color: #101010;
+}
+.f_text p{
+	color: #101010;
+}
+
+/*feature end*/
+
+/*footer start*/
+footer{
+	padding-top: 85px;
+	padding-bottom: 130px;
+	background-color: #101010;
+}
+.foot_h1{
+	margin-bottom: 15px;
+	font-size: 32px;
+	font-weight: 700;
+	color: #fcdb00;
+}
+.foot_p{
+	font-size: 20px;
+	line-height: 28px;
+	color: #898989;
+
+}
+.f_form{
+	margin-top: 30px;
+	margin-bottom: 60px;
+}
+.btn_custom{
+	background-color:#fcdb00;
+	color: #101010;
+	font-size:16px ;
+	font-weight: 700;
+	text-transform: uppercase;
+
+}
+.foot_icon{
+	margin-right: 28px;
+	color:#fcdb00;
+	font-size: 40px;
+	float: left;
+}
+.foot{
+	margin-top: 100px;
+	color: white;
+	float: left;
+}
+.foot_con1{
+	margin-left: 220px;
+
+}
+.ft{
+	padding-left: 60px;
+}
+/*footer end*/

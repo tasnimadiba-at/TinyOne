@@ -1,0 +1,88 @@
+css
+html
+
+media quiry or braking point
+
+css use kore website sajano hoy
+kintu media quiry or breaking point diye device screen onupate content_gulaok sajano hoy
+
+
+col/extra small - 320 - 575
+samll           - 576 - 767
+md              - 768 - 991
+lg              - 992 - 1199
+xl              - 1200 - 1399
+xxl             - 1400 - 
+
+
+font-family: 'PT Sans', sans-serif;
+
+color:
+Ash- #313841
+	#555555
+black- #010101	
+yellow - #fcdb00
+nevy blue- #313841
+
+
+xxxxxxxxxxxxxxxxxxxxxxxxx
+
+xxl	1440 - 1600 - 1800 -2100
+xl  1200
+lg	1024
+
+md  768
+
+sm  576
+col 320
+
+
+header-----------------
+
+
+    	 xxl/xl/lg          md       sm/col
+menu   		22				22
+
+
+
+slider--------------
+			xxl/xl/lg     md     sm/col
+
+h1				32         32     25
+h2              20         20     18
+p               16         16     16/15
+icon            42         42      35
+pad-bottom      100        100     60
+
+
+padding-------------------
+
+			xxl/xl/lg(100-120)     md(80)     sm/col(50-60-70)
+
+header        20        20
+
+
+feature----------------------------------
+			xxl/xl/lg    md    sm/col
+
+padding     100-120      80       50-60-70
+h1			32           32           25
+p           20           20           17
+
+
+
+
+
+
+<i class="fa-solid fa-tablet-screen-button"></i>
+<i class="fa-regular fa-lemon"></i>
+<i class="fa-regular fa-folder"></i>
+<i class="fa-solid fa-code"></i>
+<i class="fa-regular fa-envelope"></i>
+<i class="fa-regular fa-bookmark"></i>
+
+
+<i class="fa-brands fa-square-facebook"></i>
+<i class="fa-brands fa-square-twitter"></i>
+<i class="fa-brands fa-square-google-plus"></i>
+<i class="fa-brands fa-square-pinterest"></i>
